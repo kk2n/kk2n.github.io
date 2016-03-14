@@ -1,9 +1,9 @@
-³õÊ¼»¯Ê±£¬Ğè±£ÁôµÄÄ¿Â¼ÓĞ£º
+åˆå§‹åŒ–æ—¶ï¼Œéœ€ä¿ç•™çš„ç›®å½•æœ‰ï¼š
 scaffolds
 source
 themes
 
-±£ÁôµÄÎÄ¼şÓĞ£º
+ä¿ç•™çš„æ–‡ä»¶æœ‰ï¼š
 .gitignore
 _config.yml
 package.json
@@ -11,12 +11,18 @@ help.txt
 
 
 -----------------
-ÖØĞÂ°²×°
+é‡æ–°å®‰è£…
 
-Ö´ĞĞÃÜÁî£º
+å…ˆæ‰§è¡Œè¿™ä¸‰æ­¥ï¼š
+git init here 
+git remote add origin git@github.com:kk2n/kk2n.github.io.git 
+git pull origin master
 
+ä¿®æ”¹pullä¸‹æ¥çš„package.json-bakæ–‡ä»¶ï¼Œæˆä¸ºpackage.json
+
+ç„¶åï¼Œæ‰§è¡Œå¯†ä»¤ï¼š
 npm install
 
-hexo generate £¨hexo g ?Ò²¿ÉÒÔ£©
+hexo generate ï¼ˆhexo g ä¹Ÿå¯ä»¥ï¼‰
 
-hexo server? ? ä¯ÀÀÆ÷ÊäÈëhttp://localhost:4000
+hexo server æµè§ˆå™¨è¾“å…¥http://localhost:4000
