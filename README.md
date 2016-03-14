@@ -1,2 +1,2 @@
 请浏览：
-# \[kk2n.github.io](kk2n.github.io)
+# [我的博客](kk2n.github.io)
