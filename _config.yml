@@ -67,5 +67,11 @@ pagination_dir: page
 theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#deploy:
+ # type:
+
+
 deploy:
-  type:
+  type: git
+      repository: https://github.com/kk2n/kk2n.github.io.git     
+  branch: master
