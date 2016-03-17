@@ -1,9 +1,8 @@
-# HuxBlog Boilerplate
+devAid theme from Xiaoying Riley, adopted to Jekyll
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+early stage, pls open issue if you need any updates
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+[Download](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2).
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kevit/devaid-jekyll-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!

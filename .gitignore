@@ -1,6 +1,9 @@
 _site
-node_modules
-.DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.sh
+
+#jekyll installation
+_config.yml
+_posts/
+_sass/
+about.md
+feed.xml
+index.html
