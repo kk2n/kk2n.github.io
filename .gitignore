@@ -3,6 +3,7 @@ Thumbs.db
 db.json
 package.json
 *.log
+kk2n.zip
 node_modules/
 public/
 .deploy*/
