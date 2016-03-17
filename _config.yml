@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: 「悟」
+SEOTitle: 李宽博客 | likuan Blog (kk2n)
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: kk2n@qq.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "http://kk2n.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+email_username:     kk2n@qq.com
+zhihu_username:     kk2n
+github_username:    kk2n
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
@@ -52,10 +52,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
@@ -75,8 +75,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "LiKuan Blog",
+        href: "http://kk2n.github.io"
     },{
         title: "Foo",
         href: "#"
