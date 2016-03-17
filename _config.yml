@@ -5,7 +5,7 @@
 # Site
 title: 「悟」我
 subtitle:
-description: 手上有把锤子，身边自然会多许多的钉子...
+description:
 author: Li Kuan
 language: zh-Hans
 timezone:
@@ -69,7 +69,3 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-
-duoshuo_shortname: kk2n
-disqus_shortname: kk2n
