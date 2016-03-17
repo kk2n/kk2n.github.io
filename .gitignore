@@ -5,5 +5,6 @@ package.json
 *.log
 kk2n.zip
 node_modules/
+node_modules.zip
 public/
 .deploy*/
