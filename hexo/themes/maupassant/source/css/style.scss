@@ -42,12 +42,12 @@ a:focus {
 }
 
 #header {
-    padding: 58px 0 0;
+    padding: 18px 0 0;
     text-align: left;
     border-bottom: 1px solid #ddd;
     position: relative;
     .site-name {
-        margin-bottom: 40px;
+        margin-bottom: 18px;
         h1 {
             padding: 0;
             margin: 0;
@@ -55,7 +55,7 @@ a:focus {
             overflow: hidden;
         }
         #logo {
-            font: bold 38px/1.12 "Times New Roman", Georgia, Times, sans-serif;
+            font: bold 24px/1.12 "Times New Roman", Georgia, Times, sans-serif;
             color: #555;
             span, &:hover {
                 color: #777;
@@ -168,7 +168,7 @@ a:focus {
         margin: 0;
         color: #555;
         text-align: left;
-        font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif;
+        font: bold 20px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif;
         a {
             color: #555;
         }
