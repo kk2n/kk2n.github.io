@@ -7,7 +7,7 @@ title: 领「悟」人生
 subtitle: 唯有梦想才会让你不安，唯有行动才会解除你以后所有的不安...
 description:
 author: Li Kuan
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -39,9 +39,9 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
-  tab_replace:
+  tab_replace: true
 
 # Category & Tag
 default_category: uncategorized
