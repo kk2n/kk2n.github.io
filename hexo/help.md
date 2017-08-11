@@ -21,3 +21,8 @@
 ### 5.打开网址：http://kk2n.github.io
     
 
+### 6.如你没全局安装hexo，请先全局安装
+```
+npm install hexo-cli -g
+```
+
